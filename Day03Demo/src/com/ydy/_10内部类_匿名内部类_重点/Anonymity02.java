@@ -4,7 +4,7 @@ package com.ydy._10内部类_匿名内部类_重点;
     目标：匿名内部类的使用形式。
 
     需求：很多角色要一起参加游泳比赛（老师，学生，运动员）
-
+    重新上传
  */
 public class Anonymity02 {
     public static void main(String[] args) {
