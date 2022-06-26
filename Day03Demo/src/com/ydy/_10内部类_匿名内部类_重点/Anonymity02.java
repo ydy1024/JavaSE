@@ -15,6 +15,7 @@ public class Anonymity02 {
             }
         };
         go(s1);
+
         go(new Swim() {
             @Override
             public void swimming() {
