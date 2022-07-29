@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<books>
+    <book id="0001" desc="第一本书">
+        <name>java</name>
+        <author>      姚道炎</author>
+        <sale>200</sale>
+    </book>
+
+    <book id="0002" >
+        <name>java2</name>
+        <author>姚道炎2</author>
+        <sale>2002</sale>
+    </book>
+    <user>
+
+    </user>
+</books>

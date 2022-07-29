@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<contactList>
+    <contact id="1">
+        <name>姚道炎</name>
+        <sex>男</sex>
+        <email>1285012@qq.com</email>
+    </contact>
+    <contact id="2">
+        <name>刘力皓</name>
+        <sex>男</sex>
+        <email>750442464@qq.com</email>
+        <sql id="sql4">
+            <name>sql语句</name>
+        </sql>
+    </contact>
+    <contact id="1">
+        <name>wwd</name>
+        <sex>男</sex>
+        <email>123@qq.com</email>
+    </contact>
+    <name>外面的名字</name>
+</contactList>

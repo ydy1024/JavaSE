@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<contactList>
+    <contact id="1" vip="true">
+        <name>姚道炎</name>
+        <sex>男</sex>
+        <email>1285012@qq.com</email>
+    </contact>
+    <contact id="2" vip="false">
+        <name>刘力皓</name>
+        <sex>男</sex>
+        <email>750442464@qq.com</email>
+    </contact>
+</contactList>

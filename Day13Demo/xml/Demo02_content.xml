@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" ?><!--1.声明 -->
+<!--2注释 -->
+<!--3.标签,注意一个XML文件只能有一个根标签-->
+<student>
+    <!--4.属性信息：id-->
+    <name id="1">西门庆</name>
+    <age>22</age>
+
+    <!--5.实体字符：在xml文件中，我们不能直接写小于号，等于号一些特殊字符会与xml文件本身内容冲突报错，此时必须用转义的实体字符-->
+    <sql>
+        <!--select * from student where age < 18 && age > 10;-->
+        select * from student where age &lt;18 &amp;&amp;age &gt;10;
+    </sql>
+    <!--6.字符数据区：在xml文件中，我们不能直接写小于号，等一些特殊字符会与xml文件本身的内容冲突报错，此时必须用转义的实体字符
+            或者也可以选择使用字符数据区，里面的内容可以随便了！-->
+</student>

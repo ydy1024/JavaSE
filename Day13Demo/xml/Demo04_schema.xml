@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<书架 xmlns="http://www.itcast.cn"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xsi:schemaLocation="http://www.itcast.cn book2.xsd">
+    <书>
+        <书名>java</书名>
+        <作者>ydy</作者>
+        <售价>22</售价>
+    </书>
+</书架>
