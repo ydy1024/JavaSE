@@ -1,8 +1,10 @@
 # JavaSE
 这是一个JavaSE进阶的学习代码！！！<br>
 13天深入学习Java编程核心思想<br>
-B站黑马程序员：https://www.bilibili.com/video/BV1TE41177mP
-###Day01Demo
+B站黑马程序员：https://www.bilibili.com/video/BV1TE41177mP<br>
+
+### Day01Demo
+
 1.知识回顾<br>
 2.static关键字<br>
 3.成员变量的分类和访问<br>
@@ -20,7 +22,9 @@ B站黑马程序员：https://www.bilibili.com/video/BV1TE41177mP
 15.继承的特点<br>
 16.引用类型作为方法的参数和返回值<br>
 17.引用类型作为成员变量的类型<br>
-###Day02Demo
+
+### Day02Demo
+
 1.抽象类的概述<br>
 2.抽象类的使用<br>
 3.抽象类的特征<br>
@@ -37,7 +41,9 @@ B站黑马程序员：https://www.bilibili.com/video/BV1TE41177mP
 14.final关键字<br>
 15.单例模式<br>
 16.枚举类<br>
-###Day03Demo
+
+### Day03Demo
+
 1.多态的概述<br>
 2.多态的优劣势<br>
 3.多态_引用类型自动类型转换<br>
@@ -52,7 +58,9 @@ B站黑马程序员：https://www.bilibili.com/video/BV1TE41177mP
 12.Object类的详细使用<br>
 13.Objects类的使用<br>
 14.Date日期类<br>
-###Day04Demo
+
+### Day04Demo
+
 1.DateFormat时间格式化类<br>
 2.Calendar日历类的详细使用<br>
 3.Math类的详细使用<br>
@@ -68,7 +76,9 @@ B站黑马程序员：https://www.bilibili.com/video/BV1TE41177mP
 13.泛型的通配符<br>
 14.Collection集合的概述<br>
 15.Collection集合的常用API<br>
-###Day05Demo
+
+### Day05Demo
+
 1.Collection集合的遍历方式<br>
 2.Java常见数据结构种类<br>
 3.List系列集合的使用<br>
@@ -76,7 +86,9 @@ B站黑马程序员：https://www.bilibili.com/video/BV1TE41177mP
 5.Collections工具类<br>
 6.可变参数<br>
 7.斗地主游戏洗牌发牌看牌<br>
-###Day06Demo
+
+### Day06Demo
+
 1.Map集合的概述<br>
 2.Map集合的API<br>
 3.Map集合的遍历<br>
@@ -88,7 +100,9 @@ B站黑马程序员：https://www.bilibili.com/video/BV1TE41177mP
 9.图书管理案例<br>
 10.排序算法冒泡_选择_排序<br>
 11.二分查找提高检索性能<br>
-###Day07Demo
+
+### Day07Demo
+
 1.异常的概述和体系<br>
 2.异常_常见的运行时异常<br>
 3.异常_编译时异常认识<br>
@@ -109,7 +123,9 @@ B站黑马程序员：https://www.bilibili.com/video/BV1TE41177mP
 18.线程同步_同步代码块<br>
 19.线程同步_同步方法<br>
 20.线程同步_Lock锁<br>
-###Day08Demo
+
+### Day08Demo
+
 1.线程通信<br>
 2.线程池<br>
 3.死锁<br>
@@ -121,7 +137,9 @@ B站黑马程序员：https://www.bilibili.com/video/BV1TE41177mP
 9.并发包_CyclicBarrier<br>
 10.并发包_Semaphore<br>
 11.并发包_Exchanger<br>
-###Day09Demo
+
+### Day09Demo
+
 1.Lambda表达式的概述<br>
 2.Lambda表达式简化Runnable接口匿名内部类<br>
 3.Lambda简化Comparator接口匿名内部类写法<br>
@@ -148,7 +166,9 @@ B站黑马程序员：https://www.bilibili.com/video/BV1TE41177mP
 24.IO流的概述和分类<br>
 25.字节流的使用<br>
 26.字节流做文件复制<br>
-###Day10Demo
+
+### Day10Demo
+
 1.字符流的使用<br>
 2.缓冲流的概述和分类<br>
 3.字节缓冲流<br>
@@ -159,7 +179,9 @@ B站黑马程序员：https://www.bilibili.com/video/BV1TE41177mP
 8.序列化<br>
 9.打印流<br>
 10.Properties属性集对象<br>
-###Day11Demo
+
+### Day11Demo
+
 1.编程思维题目<br>
 2.网络通信的基本概念<br>
 3.InetAddress<br>
@@ -172,7 +194,9 @@ B站黑马程序员：https://www.bilibili.com/video/BV1TE41177mP
 10.文件上传演示<br>
 11.BS架构模拟<br>
 12.基本通信模型介绍<br>
-###Day12Demo
+
+### Day12Demo
+
 1.单元测试<br>
 2.反射的概述<br>
 3.反射_获取Class类对象<br>
@@ -189,7 +213,9 @@ B站黑马程序员：https://www.bilibili.com/video/BV1TE41177mP
 14.注解解析<br>
 15.注解模拟Junit框架<br>
 16.代理模式<br>
-###Day13Demo
+
+### Day13Demo
+
 1.Dom4j解析XML文档根元素<br>
 2.Dom4j解析XML的子元素<br>
 3.Dom4j解析XML的属性<br>
